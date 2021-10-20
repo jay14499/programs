@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+ int a=6;
+ if(a==6, a!=7, a<=99, a>5);
+{
+ printf("the number is in given range");
+ }
+else
+ printf("the number is not in given range");
+}
